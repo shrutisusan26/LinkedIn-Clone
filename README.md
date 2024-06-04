@@ -1,10 +1,10 @@
-LinkedIn-Clone 
+# LinkedIn-Clone 
 
-Created using React, Redux and Firebase for deployment and authentication management.
-Access the hosted URL at : https://linkedin-clone-e4261.web.app
+Created using React, Redux, and Firebase for deployment and authentication management.
+Access the hosted URL at: https://linkedin-clone-e4261.web.app
 
 
-Users can :
+Users can:
 1. Signup/ Login using their credentials
 2. Post anything
 3. UI similar to LinkedIn
